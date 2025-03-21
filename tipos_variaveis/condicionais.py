@@ -1,7 +1,7 @@
 # If,, elif e else
 
 # Exemplo de if
-idade = 18
+idade = int(input("Quantos anos voce tem?"))
 print("exemplo de comando if")
 
 if idade >= 18:
